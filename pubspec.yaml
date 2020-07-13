@@ -12,7 +12,8 @@ dependencies:
   dio: ^3.0.9
 
   # RSS parsing library.
-  dart_rss: ^1.0.2+1
+  dart_rss: 
+    git: git@github.com:gaodeng/dart-rss.git
 
   # Meta.
   meta: ^1.1.8
